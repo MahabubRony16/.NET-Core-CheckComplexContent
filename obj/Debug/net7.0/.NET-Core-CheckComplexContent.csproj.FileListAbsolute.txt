@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\.NET-Core-CheckComplexContent.exe
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\.NET-Core-CheckComplexContent.deps.json
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\.NET-Core-CheckComplexContent.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\.NET-Core-CheckComplexContent.dll
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\.NET-Core-CheckComplexContent.pdb
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.dll
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\refint\.NET-Core-CheckComplexContent.dll
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.pdb
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\ref\.NET-Core-CheckComplexContent.dll
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\HP\Documents\GitHub\.NET-Core-CheckComplexContent\obj\Debug\net7.0\.NET-Core-CheckComplexContent.csproj.CopyComplete
